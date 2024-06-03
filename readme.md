@@ -7,8 +7,8 @@ A **simple** and **efficient** notes application for managing your notes using *
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/notes-app.git
-   cd notes-app
+   git clone https://github.com/your-username/NoteMaster.git
+   cd NoteMaster
    ```
 
 2. **Install the dependencies:**
