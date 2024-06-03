@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.7.2"
+  },
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "A CLI application that performs CRUD operations on notes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mishika Jaiswal",
+  "license": "ISC"
+}
